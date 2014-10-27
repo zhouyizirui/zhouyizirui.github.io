@@ -1,0 +1,29 @@
+body{
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:50px;
+	background-image: url(./bg.jpg);
+	background-repeat: repeat-x;
+	font-family: Microsoft Yahei;
+}
+
+#header{
+	color: white;
+	font-family: Microsoft Yahei;
+	font-weight: bold;
+	font-size: 60;	
+}
+
+#logo{
+	display: inline;
+	float: right;
+}
+
+#content{
+	padding-top: 20px;
+	width: 880px;
+}
+
+table{
+	font-weight: bold;
+}
